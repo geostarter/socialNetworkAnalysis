@@ -1,4 +1,4 @@
-# socialNetworkAnalysis
+# socialNetworkAnalysis (In Progress)
 
 Authors: Nicholas Stoterau, Coleman Shepard
 
